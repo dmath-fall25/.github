@@ -4,4 +4,4 @@
 **Resources**:  
 - [Syllabus](https://irinashab.github.io/dmath-2025/syllabus.html)  
 - [Lecture Notes](https://irinashab.github.io/dmath-2025/)  
-- [Assignment Schedule](#) (coming soon) 
+- [Assignment Schedule (coming soon)](#)  

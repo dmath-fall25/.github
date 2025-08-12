@@ -16,8 +16,8 @@
 
 ##  Support  
 For technical issues:  
-```html
-<a href="mailto:irina.shablinsky@purchase.edu">Email Prof. Shablinsky</a>
+```
+<irina.shablinsky@purchase.edu">Email Prof. Shablinsky
 ```
 My office hours: Tue/Friday 1-2 PM or make an appointment.
 You can also contact any of the upperclassmen who have taken either CS2, Topics in CS, or Data Structures.Or any student a from the math/CS club.

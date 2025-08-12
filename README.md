@@ -1,4 +1,4 @@
-# MAT3120: Mathematical Foundations  
+# MAT3120: Discrete Math 
 **Fall 2025 | Instructor: Prof. Irina Shablinsky**  
 
 ---
